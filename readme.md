@@ -4,7 +4,7 @@
 </h1>
 
 
-  <img title="To-Do List" src="images/preview.png" alt="tindog" width="700" />
+  <img title="To-Do List" src="images/preview.png" alt="tindog" />
 
 ## 🛠 Built With 
 
